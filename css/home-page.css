@@ -1,4 +1,104 @@
 /* screen - home-page */
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+
+@import url("https://fonts.googleapis.com/css?family=Lemonada:400,600|Bevan:400|Nunito:400,700,800");
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+:root { 
+  --black: #000000;
+  --licorice: #141414;
+  --robins-egg-blue: #00c1ff;
+  --screamin-green: #65fd58;
+  --white: #ffffff;
+ 
+  --font-size-l2: 21px;
+  --font-size-m2: 20px;
+  --font-size-s: 18px;
+  --font-size-xl2: 25px;
+  --font-size-xxl2: 30px;
+  --font-size-xxxl2: 31px;
+  --font-size-xxxxl2: 48px;
+ 
+  --font-family-bevan: "Bevan", Helvetica;
+  --font-family-lemonada: "Lemonada", Helvetica;
+  --font-family-nunito: "Nunito", Helvetica;
+}
+.bevan-normal-robins-egg-blue-30px {
+  color: var(--robins-egg-blue);
+  font-family: var(--font-family-bevan);
+  font-size: var(--font-size-xxl2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.nunito-normal-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lemonada-normal-white-30px {
+  color: var(--white);
+  font-family: var(--font-family-lemonada);
+  font-size: var(--font-size-xxl2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.nunito-normal-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.nunito-normal-white-25px {
+  color: var(--white);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-xl2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.nunito-normal-screamin-green-25px {
+  color: var(--screamin-green);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-xl2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.nunito-normal-screamin-green-35px {
+  color: var(--screamin-green);
+  font-family: var(--font-family-nunito);
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 400;
+}
 
 .home-page {
   align-items: flex-start;
@@ -10,7 +110,7 @@
   width: 1440px;
 }
 
-.home-page .overlap-group7 {
+.home-page .overlap-group8 {
   height: 762px;
   margin-left: -245px;
   margin-top: -87px;
@@ -156,7 +256,7 @@
 }
 
 .home-page .rectangle-4 {
-  background-color: #141414;
+  background-color: var(--licorice);
   border-radius: 45px;
   height: 89px;
   left: 285px;
@@ -167,9 +267,9 @@
 }
 
 .home-page .rectangle-14 {
-  background-color: #141414;
+  background-color: var(--licorice);
   border-radius: 45px;
-  height: 100px;
+  height: 89px;
   left: 393px;
   position: absolute;
   top: 31px;
@@ -289,7 +389,7 @@
 .home-page .art {
   color: var(--white);
   font-family: var(--font-family-lemonada);
-  font-size: var(--font-size-xxxl);
+  font-size: var(--font-size-xxxl2);
   font-weight: 400;
   left: 1542px;
   letter-spacing: 0;
@@ -315,7 +415,7 @@
 .home-page .resume {
   color: var(--black);
   font-family: var(--font-family-nunito);
-  font-size: var(--font-size-xl);
+  font-size: var(--font-size-xl2);
   font-weight: 700;
   letter-spacing: 0;
   min-height: 31px;
@@ -325,7 +425,7 @@
 .home-page .socials {
   color: var(--white);
   font-family: var(--font-family-nunito);
-  font-size: var(--font-size-l);
+  font-size: var(--font-size-l2);
   font-weight: 400;
   left: 408px;
   letter-spacing: 0;
@@ -361,28 +461,17 @@
 .home-page .i-am-a-junior-uxui {
   color: transparent;
   font-family: var(--font-family-nunito);
-  font-size: var(--font-size-m);
+  font-size: var(--font-size-s);
   font-weight: 400;
-  left: 861px;
+  left: 857px;
   letter-spacing: 0;
   position: absolute;
-  top: 311px;
+  top: 316px;
   width: 614px;
 }
 
-.home-page .span-1 {
-  color: var(--white);
-  font-size: var(--font-size-xl);
-}
-
-.home-page .span-2 {
+.home-page .span4 {
   color: var(--screamin-green);
-  font-size: var(--font-size-xl);
-}
-
-.home-page .span-3 {
-  color: var(--screamin-green);
-  font-size: 35px;
 }
 
 .home-page .more {
@@ -453,7 +542,7 @@
   width: 192px;
 }
 
-.home-page .overlap-group8 {
+.home-page .overlap-group7 {
   align-self: center;
   height: 990px;
   margin-right: 18.0px;
@@ -475,7 +564,7 @@
 .home-page .title {
   color: var(--black);
   font-family: var(--font-family-lemonada);
-  font-size: var(--font-size-xxxxl);
+  font-size: var(--font-size-xxxxl2);
   font-weight: 400;
   letter-spacing: 0;
   margin-left: 56.0px;
@@ -516,7 +605,7 @@
 }
 
 .home-page .overlap-group5 {
-  background-image: url(../img/-----image@2x.png);
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/61e711bda014b5ef1d15d816/releases/61e711e7965d00485aa0ea57/img/-----image-3@2x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 284px;
@@ -564,8 +653,7 @@
   height: 409px;
   left: 177px;
   position: absolute;
-  top: 150px;
-  justify-content: space-around;
+  top: 0;
   width: 1440px;
 }
 
@@ -573,7 +661,7 @@
   height: 65px;
   left: 801px;
   position: absolute;
-  top: 450px;
+  top: 290px;
   width: 63px;
 }
 
@@ -581,7 +669,7 @@
   height: 90px;
   left: 1037px;
   position: absolute;
-  top: 520px;
+  top: 368px;
   width: 98px;
 }
 
@@ -589,15 +677,15 @@
   height: 90px;
   left: 1056px;
   position: absolute;
-  top: 175px;
+  top: 3px;
   width: 98px;
 }
 
 .home-page .union-5 {
   height: 423px;
-  left: -120px;
+  left: 335px;
   position: absolute;
-  top: 150px;
+  top: 3px;
   width: 607px;
 }
 
@@ -605,7 +693,7 @@
   left: 337px;
   letter-spacing: 0;
   position: absolute;
-  top: 253px;
+  top: 113px;
   width: 148px;
 }
 
@@ -613,7 +701,7 @@
   left: 670px;
   letter-spacing: 0;
   position: absolute;
-  top: 253px;
+  top: 113px;
   width: 142px;
 }
 
@@ -621,15 +709,15 @@
   left: 1027px;
   letter-spacing: 0;
   position: absolute;
-  top: 253px;
+  top: 117px;
   width: 108px;
 }
 
 .home-page .art-1 {
-  left: 1450px;
+  left: 1481px;
   letter-spacing: 0;
   position: absolute;
-  top: 253px;
+  top: 113px;
   width: 70px;
 }
 
@@ -637,7 +725,7 @@
   height: 58px;
   left: 495px;
   position: absolute;
-  top: 200px;
+  top: 127px;
   width: 62px;
 }
 
@@ -645,7 +733,7 @@
   height: 58px;
   left: 1043px;
   position: absolute;
-  top: 150px;
+  top: 49px;
   width: 62px;
 }
 
@@ -653,23 +741,23 @@
   height: 40px;
   left: 1037px;
   position: absolute;
-  top: 460px;
+  top: 300px;
   width: 50px;
 }
 
 .home-page .ellipse-8-1 {
   height: 137px;
-  left: 425px;
+  left: 125px;
   position: absolute;
-  top: 345px;
+  top: 0;
   width: 154px;
 }
 
 .home-page .ellipse-10-1 {
   height: 132px;
-  left: 844px;
+  left: 1444px;
   position: absolute;
-  top: 200px;
+  top: 24px;
   width: 154px;
 }
 
@@ -677,7 +765,7 @@
   height: 423px;
   left: 1172px;
   position: absolute;
-  top: 200px;
+  top: 0;
   width: 657px;
 }
 
@@ -685,7 +773,7 @@
   height: 64px;
   left: 922px;
   position: absolute;
-  top: 450px;
+  top: 290px;
   width: 64px;
 }
 
@@ -693,14 +781,15 @@
   left: 904px;
   letter-spacing: 0;
   position: absolute;
-  top: 375px;
+  top: 228px;
   width: 128px;
 }
 
 .home-page .ellipse-15-1 {
   height: 239px;
-  left: 500px;
+  left: 0;
   position: absolute;
-  top: 458px;
+  top: 308px;
   width: 250px;
 }
+
