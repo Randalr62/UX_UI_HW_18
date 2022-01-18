@@ -650,11 +650,9 @@
 
 .home-page .rectangle-35 {
   background-color: var(--black);
-  height: 409px;
-  left: 177px;
-  position: absolute;
-  top: 0;
-  width: 1440px;
+  display: grid; 
+  grid-row-start: 4;
+  grid-row-end: 3;
 }
 
 .home-page .group-2 {
