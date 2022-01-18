@@ -1,0 +1,661 @@
+/* screen - home-page */
+.about-me-page {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 2761px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.about-me-page .overlap-group6 {
+  align-self: flex-start;
+  height: 762px;
+  margin-left: -234px;
+  margin-top: -79px;
+  position: relative;
+  width: 1921px;
+}
+
+.about-me-page .overlap-group2 {
+  height: 762px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1907px;
+}
+
+.about-me-page .rectangle-47 {
+  background-color: var(--black);
+  height: 692px;
+  left: 221px;
+  position: absolute;
+  top: 70px;
+  width: 1489px;
+}
+
+.about-me-page .ellipse-10 {
+  height: 132px;
+  left: 1189px;
+  position: absolute;
+  top: 556px;
+  width: 154px;
+}
+
+.about-me-page .ellipse-13 {
+  height: 29px;
+  left: 932px;
+  position: absolute;
+  top: 638px;
+  width: 33px;
+}
+
+.about-me-page .hellomy-name-is-randal {
+  height: 1px;
+  left: 1235px;
+  position: absolute;
+  top: 295px;
+  width: 1px;
+}
+
+.about-me-page .ellipse-7 {
+  height: 58px;
+  left: 802px;
+  position: absolute;
+  top: 137px;
+  width: 62px;
+}
+
+.about-me-page .ellipse-9 {
+  height: 90px;
+  left: 651px;
+  position: absolute;
+  top: 558px;
+  width: 98px;
+}
+
+.about-me-page .ellipse-11 {
+  height: 46px;
+  left: 1389px;
+  position: absolute;
+  top: 102px;
+  width: 46px;
+}
+
+.about-me-page .ellipse-16 {
+  height: 46px;
+  left: 903px;
+  position: absolute;
+  top: 653px;
+  width: 46px;
+}
+
+.about-me-page .union {
+  height: 603px;
+  left: 0;
+  position: absolute;
+  top: 142px;
+  width: 422px;
+}
+
+.about-me-page .union-1 {
+  height: 606px;
+  left: 421px;
+  position: absolute;
+  top: 93px;
+  width: 1486px;
+}
+
+.about-me-page .overlap-group {
+  height: 309px;
+  left: 286px;
+  position: absolute;
+  top: 278px;
+  width: 523px;
+}
+
+.about-me-page .rectangle-17 {
+  height: 309px;
+  left: 227px;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.about-me-page .rectangle-18 {
+  height: 71px;
+  left: 144px;
+  position: absolute;
+  top: 174px;
+  width: 73px;
+}
+
+.about-me-page .union-2 {
+  height: 123px;
+  left: 161px;
+  position: absolute;
+  top: 186px;
+  width: 362px;
+}
+
+.about-me-page .rectangle-9 {
+  height: 30px;
+  left: 269px;
+  position: absolute;
+  top: 155px;
+  width: 80px;
+}
+
+.about-me-page .rectangle-12 {
+  height: 31px;
+  left: 358px;
+  position: absolute;
+  top: 155px;
+  width: 87px;
+}
+
+.about-me-page .rectangle-4 {
+  background-color: var(--licorice);
+  border-radius: 45px;
+  height: 89px;
+  left: 285px;
+  position: absolute;
+  top: 31px;
+  transform: rotate(171.12deg);
+  width: 32px;
+}
+
+.about-me-page .rectangle-14 {
+  background-color: var(--licorice);
+  border-radius: 45px;
+  height: 89px;
+  left: 393px;
+  position: absolute;
+  top: 31px;
+  transform: rotate(-172.00deg);
+  width: 32px;
+}
+
+.about-me-page .rectangle-1 {
+  background-color: var(--white);
+  height: 32px;
+  left: 310px;
+  position: absolute;
+  top: 59px;
+  transform: rotate(-9.14deg);
+  width: 3px;
+}
+
+.about-me-page .rectangle-15 {
+  background-color: var(--white);
+  height: 32px;
+  left: 419px;
+  position: absolute;
+  top: 60px;
+  transform: rotate(9.58deg);
+  width: 3px;
+}
+
+.about-me-page .rectangle-5 {
+  background-color: var(--stack);
+  height: 35px;
+  left: 351px;
+  position: absolute;
+  top: 123px;
+  transform: rotate(-89.92deg);
+  width: 5px;
+}
+
+.about-me-page .rectangle-6 {
+  height: 40px;
+  left: 331px;
+  position: absolute;
+  top: 192px;
+  width: 46px;
+}
+
+.about-me-page .ellipse-2 {
+  background-color: var(--white);
+  border-radius: 3.23px/6.82px;
+  height: 14px;
+  left: 420px;
+  position: absolute;
+  top: 41px;
+  transform: rotate(6.97deg);
+  width: 6px;
+}
+
+.about-me-page .ellipse-1 {
+  background-color: var(--white);
+  border-radius: 3.26px/6.76px;
+  height: 14px;
+  left: 303px;
+  position: absolute;
+  top: 41px;
+  transform: rotate(-20.18deg);
+  width: 7px;
+}
+
+.about-me-page .x12-1 {
+  height: 214px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 236px;
+}
+
+.about-me-page .ellipse-8 {
+  height: 137px;
+  left: 1031px;
+  position: absolute;
+  top: 0;
+  width: 154px;
+}
+
+.about-me-page .randal-reiner {
+  height: 33px;
+  left: 485px;
+  position: absolute;
+  top: 118px;
+  width: 219px;
+}
+
+.about-me-page .work {
+  left: 1158px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 110px;
+  width: 102px;
+}
+
+.about-me-page .place {
+  left: 1389px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 110px;
+  width: 145px;
+}
+
+.about-me-page .title {
+  left: 1542px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 109px;
+  width: 63px;
+}
+
+.about-me-page .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--robins-egg-blue);
+  border-radius: 72px;
+  display: flex;
+  height: 64px;
+  justify-content: flex-end;
+  left: 1428px;
+  min-width: 148px;
+  padding: 15px 21px;
+  position: absolute;
+  top: 610px;
+}
+
+.about-me-page .resume {
+  letter-spacing: 0;
+  min-height: 31px;
+  width: 100px;
+}
+
+.about-me-page .socials {
+  left: 408px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 616px;
+  width: 83px;
+}
+
+.about-me-page .vector {
+  height: 64px;
+  left: 295px;
+  position: absolute;
+  top: 661px;
+  width: 64px;
+}
+
+.about-me-page .group {
+  height: 65px;
+  left: 408px;
+  position: absolute;
+  top: 656px;
+  width: 63px;
+}
+
+.about-me-page .group-1 {
+  height: 40px;
+  left: 521px;
+  position: absolute;
+  top: 673px;
+  width: 50px;
+}
+
+.about-me-page .about-randal {
+  height: 43px;
+  left: 887px;
+  position: absolute;
+  top: 367px;
+  width: 431px;
+}
+
+.about-me-page .overlap-group4 {
+  height: 169px;
+  left: 361px;
+  position: absolute;
+  top: 74px;
+  width: 194px;
+}
+
+.about-me-page .ellipse-28 {
+  height: 14px;
+  left: 33px;
+  position: absolute;
+  top: 53px;
+  width: 37px;
+}
+
+.about-me-page .ellipse-29 {
+  height: 14px;
+  left: 35px;
+  position: absolute;
+  top: 53px;
+  width: 37px;
+}
+
+.about-me-page .union-3 {
+  height: 87px;
+  left: 40px;
+  position: absolute;
+  top: 43px;
+  width: 27px;
+}
+
+.about-me-page .union-4 {
+  height: 3px;
+  left: 46px;
+  position: absolute;
+  top: 45px;
+  width: 3px;
+}
+
+.about-me-page .ellipse-30 {
+  height: 167px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 193px;
+}
+
+.about-me-page .ellipse-31 {
+  height: 169px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 192px;
+}
+
+.about-me-page .bio {
+  height: 45px;
+  margin-right: 43.0px;
+  margin-top: 102px;
+  width: 90px;
+}
+
+.about-me-page .overlap-group5 {
+  height: 380px;
+  margin-top: 44px;
+  position: relative;
+  width: 1340px;
+}
+
+.about-me-page .hii-am-randal-reine {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 1340px;
+}
+
+.about-me-page .skills {
+  height: 45px;
+  left: 568px;
+  position: absolute;
+  top: 330px;
+  width: 161px;
+}
+
+.about-me-page .as-a-user-researcher {
+  align-self: flex-start;
+  letter-spacing: 0;
+  margin-left: 22px;
+  margin-top: 45px;
+  min-height: 238px;
+  text-align: center;
+  width: 1340px;
+}
+
+.about-me-page .tools {
+  height: 41px;
+  margin-right: 1.0px;
+  margin-top: 121px;
+  width: 150px;
+}
+
+.about-me-page .paper-and-pencil-ado {
+  letter-spacing: 0;
+  margin-left: 92.0px;
+  margin-top: 19px;
+  min-height: 493px;
+  width: 276px;
+}
+
+.about-me-page .group-container {
+  align-self: flex-start;
+  height: 554px;
+  margin-left: -187px;
+  margin-top: 144px;
+  position: relative;
+  width: 1847px;
+}
+
+.about-me-page .overlap-group3 {
+  height: 547px;
+  left: 6px;
+  position: absolute;
+  top: 0;
+  width: 1829px;
+}
+
+.about-me-page .rectangle-35 {
+  background-color: var(--black);
+  height: 409px;
+  left: 177px;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.about-me-page .group-2 {
+  height: 65px;
+  left: 801px;
+  position: absolute;
+  top: 290px;
+  width: 63px;
+}
+
+.about-me-page .ellipse-11-1 {
+  height: 90px;
+  left: 1037px;
+  position: absolute;
+  top: 368px;
+  width: 98px;
+}
+
+.about-me-page .ellipse-14 {
+  height: 90px;
+  left: 1056px;
+  position: absolute;
+  top: 3px;
+  width: 98px;
+}
+
+.about-me-page .union-5 {
+  height: 423px;
+  left: 335px;
+  position: absolute;
+  top: 3px;
+  width: 607px;
+}
+
+.about-me-page .resume-1 {
+  left: 337px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 113px;
+  width: 148px;
+}
+
+.about-me-page .place-1 {
+  left: 670px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 113px;
+  width: 142px;
+}
+
+.about-me-page .about {
+  left: 1027px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 117px;
+  width: 108px;
+}
+
+.about-me-page .art {
+  left: 1481px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 113px;
+  width: 70px;
+}
+
+.about-me-page .ellipse-12 {
+  height: 58px;
+  left: 495px;
+  position: absolute;
+  top: 127px;
+  width: 62px;
+}
+
+.about-me-page .ellipse-15 {
+  height: 58px;
+  left: 1043px;
+  position: absolute;
+  top: 49px;
+  width: 62px;
+}
+
+.about-me-page .group-3 {
+  height: 40px;
+  left: 1037px;
+  position: absolute;
+  top: 300px;
+  width: 50px;
+}
+
+.about-me-page .ellipse-8-1 {
+  height: 137px;
+  left: 125px;
+  position: absolute;
+  top: 0;
+  width: 154px;
+}
+
+.about-me-page .ellipse-10-1 {
+  height: 132px;
+  left: 1444px;
+  position: absolute;
+  top: 24px;
+  width: 154px;
+}
+
+.about-me-page .union-6 {
+  height: 423px;
+  left: 1172px;
+  position: absolute;
+  top: 0;
+  width: 657px;
+}
+
+.about-me-page .vector-1 {
+  height: 64px;
+  left: 922px;
+  position: absolute;
+  top: 290px;
+  width: 64px;
+}
+
+.about-me-page .socials-1 {
+  left: 904px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 228px;
+  width: 128px;
+}
+
+.about-me-page .ellipse-15-1 {
+  height: 239px;
+  left: 0;
+  position: absolute;
+  top: 308px;
+  width: 250px;
+}
+
+.about-me-page .number {
+  color: 
+#65fc57;
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-s2);
+  font-weight: 700;
+  left: 1463px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 366px;
+  width: 53px;
+}
+
+.about-me-page .group-4 {
+  height: 26px;
+  left: 1437px;
+  position: absolute;
+  top: 364px;
+  width: 26px;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Lemonada:400|Nunito:400,700|Bevan:400");
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
