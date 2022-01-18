@@ -1,6 +1,5 @@
 :root { 
   --black: #000000;
-  --licorice: #141414;
   --robins-egg-blue: #00c1ff;
   --screamin-green: #65fd58;
   --white: #ffffff;
@@ -25,14 +24,6 @@
   font-weight: 400;
 }
 
-.nunito-normal-white-20px {
-  color: var(--white);
-  font-family: var(--font-family-nunito);
-  font-size: var(--font-size-m);
-  font-style: normal;
-  font-weight: 400;
-}
-
 .lemonada-normal-white-30px {
   color: var(--white);
   font-family: var(--font-family-lemonada);
@@ -41,34 +32,10 @@
   font-weight: 400;
 }
 
-.nunito-normal-white-25px {
+.nunito-normal-white-20px {
   color: var(--white);
   font-family: var(--font-family-nunito);
-  font-size: var(--font-size-xl);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.nunito-normal-screamin-green-25px {
-  color: var(--screamin-green);
-  font-family: var(--font-family-nunito);
-  font-size: var(--font-size-xl);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.nunito-normal-white-18px {
-  color: var(--white);
-  font-family: var(--font-family-nunito);
-  font-size: var(--font-size-s);
-  font-style: normal;
-  font-weight: 400;
-}
-
-.nunito-normal-screamin-green-35px {
-  color: var(--screamin-green);
-  font-family: var(--font-family-nunito);
-  font-size: 35px;
+  font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 400;
 }

@@ -156,7 +156,7 @@
 }
 
 .home-page .rectangle-4 {
-  background-color: var(--licorice);
+  background-color: #141414;
   border-radius: 45px;
   height: 89px;
   left: 285px;
@@ -167,9 +167,9 @@
 }
 
 .home-page .rectangle-14 {
-  background-color: var(--licorice);
+  background-color: #141414;
   border-radius: 45px;
-  height: 89px;
+  height: 100px;
   left: 393px;
   position: absolute;
   top: 31px;
@@ -361,17 +361,28 @@
 .home-page .i-am-a-junior-uxui {
   color: transparent;
   font-family: var(--font-family-nunito);
-  font-size: var(--font-size-s);
+  font-size: var(--font-size-m);
   font-weight: 400;
-  left: 857px;
+  left: 861px;
   letter-spacing: 0;
   position: absolute;
-  top: 316px;
+  top: 311px;
   width: 614px;
 }
 
-.home-page .span4 {
+.home-page .span-1 {
+  color: var(--white);
+  font-size: var(--font-size-xl);
+}
+
+.home-page .span-2 {
   color: var(--screamin-green);
+  font-size: var(--font-size-xl);
+}
+
+.home-page .span-3 {
+  color: var(--screamin-green);
+  font-size: 35px;
 }
 
 .home-page .more {
@@ -379,10 +390,10 @@
   font-family: var(--font-family-nunito);
   font-size: var(--font-size-s);
   font-weight: 400;
-  left: 1409px;
+  left: 940px;
   letter-spacing: 0;
   position: absolute;
-  top: 426px;
+  top: 461px;
   width: 84px;
 }
 
@@ -505,7 +516,7 @@
 }
 
 .home-page .overlap-group5 {
-  background-image: url(../img/-----image-3@2x.png);
+  background-image: url(../img/-----image@2x.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 284px;
@@ -553,7 +564,8 @@
   height: 409px;
   left: 177px;
   position: absolute;
-  top: 0;
+  top: 150px;
+  justify-content: space-around;
   width: 1440px;
 }
 
@@ -561,7 +573,7 @@
   height: 65px;
   left: 801px;
   position: absolute;
-  top: 290px;
+  top: 450px;
   width: 63px;
 }
 
@@ -569,7 +581,7 @@
   height: 90px;
   left: 1037px;
   position: absolute;
-  top: 368px;
+  top: 520px;
   width: 98px;
 }
 
@@ -577,15 +589,15 @@
   height: 90px;
   left: 1056px;
   position: absolute;
-  top: 3px;
+  top: 175px;
   width: 98px;
 }
 
 .home-page .union-5 {
   height: 423px;
-  left: 335px;
+  left: -120px;
   position: absolute;
-  top: 3px;
+  top: 150px;
   width: 607px;
 }
 
@@ -593,7 +605,7 @@
   left: 337px;
   letter-spacing: 0;
   position: absolute;
-  top: 113px;
+  top: 253px;
   width: 148px;
 }
 
@@ -601,7 +613,7 @@
   left: 670px;
   letter-spacing: 0;
   position: absolute;
-  top: 113px;
+  top: 253px;
   width: 142px;
 }
 
@@ -609,15 +621,15 @@
   left: 1027px;
   letter-spacing: 0;
   position: absolute;
-  top: 117px;
+  top: 253px;
   width: 108px;
 }
 
 .home-page .art-1 {
-  left: 1481px;
+  left: 1450px;
   letter-spacing: 0;
   position: absolute;
-  top: 113px;
+  top: 253px;
   width: 70px;
 }
 
@@ -625,7 +637,7 @@
   height: 58px;
   left: 495px;
   position: absolute;
-  top: 127px;
+  top: 200px;
   width: 62px;
 }
 
@@ -633,7 +645,7 @@
   height: 58px;
   left: 1043px;
   position: absolute;
-  top: 49px;
+  top: 150px;
   width: 62px;
 }
 
@@ -641,23 +653,23 @@
   height: 40px;
   left: 1037px;
   position: absolute;
-  top: 300px;
+  top: 460px;
   width: 50px;
 }
 
 .home-page .ellipse-8-1 {
   height: 137px;
-  left: 125px;
+  left: 425px;
   position: absolute;
-  top: 0;
+  top: 345px;
   width: 154px;
 }
 
 .home-page .ellipse-10-1 {
   height: 132px;
-  left: 1444px;
+  left: 844px;
   position: absolute;
-  top: 24px;
+  top: 200px;
   width: 154px;
 }
 
@@ -665,7 +677,7 @@
   height: 423px;
   left: 1172px;
   position: absolute;
-  top: 0;
+  top: 200px;
   width: 657px;
 }
 
@@ -673,7 +685,7 @@
   height: 64px;
   left: 922px;
   position: absolute;
-  top: 290px;
+  top: 450px;
   width: 64px;
 }
 
@@ -681,14 +693,14 @@
   left: 904px;
   letter-spacing: 0;
   position: absolute;
-  top: 228px;
+  top: 375px;
   width: 128px;
 }
 
 .home-page .ellipse-15-1 {
   height: 239px;
-  left: 0;
+  left: 500px;
   position: absolute;
-  top: 308px;
+  top: 458px;
   width: 250px;
 }
