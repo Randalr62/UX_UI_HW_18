@@ -1,0 +1,690 @@
+/* screen - home-page-art-hover */
+
+.home-page-art-hover {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 2122px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.home-page-art-hover .overlap-group8 {
+  height: 762px;
+  margin-left: -245px;
+  margin-top: -87px;
+  position: relative;
+  width: 1925px;
+}
+
+.home-page-art-hover .overlap-group2 {
+  height: 762px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1907px;
+}
+
+.home-page-art-hover .rectangle-47 {
+  background-color: var(--black);
+  height: 692px;
+  left: 221px;
+  position: absolute;
+  top: 70px;
+  width: 1489px;
+}
+
+.home-page-art-hover .ellipse-10 {
+  height: 132px;
+  left: 1189px;
+  position: absolute;
+  top: 556px;
+  width: 154px;
+}
+
+.home-page-art-hover .ellipse-13 {
+  height: 29px;
+  left: 932px;
+  position: absolute;
+  top: 638px;
+  width: 33px;
+}
+
+.home-page-art-hover .hellomy-name-is-randal {
+  height: 44px;
+  left: 925px;
+  position: absolute;
+  top: 273px;
+  width: 621px;
+}
+
+.home-page-art-hover .ellipse-7 {
+  height: 58px;
+  left: 802px;
+  position: absolute;
+  top: 137px;
+  width: 62px;
+}
+
+.home-page-art-hover .ellipse-9 {
+  height: 90px;
+  left: 651px;
+  position: absolute;
+  top: 558px;
+  width: 98px;
+}
+
+.home-page-art-hover .ellipse-11 {
+  height: 46px;
+  left: 1389px;
+  position: absolute;
+  top: 102px;
+  width: 46px;
+}
+
+.home-page-art-hover .ellipse-16 {
+  height: 46px;
+  left: 903px;
+  position: absolute;
+  top: 653px;
+  width: 46px;
+}
+
+.home-page-art-hover .union {
+  height: 603px;
+  left: 0;
+  position: absolute;
+  top: 142px;
+  width: 422px;
+}
+
+.home-page-art-hover .union-1 {
+  height: 606px;
+  left: 421px;
+  position: absolute;
+  top: 93px;
+  width: 1486px;
+}
+
+.home-page-art-hover .overlap-group {
+  height: 309px;
+  left: 286px;
+  position: absolute;
+  top: 278px;
+  width: 523px;
+}
+
+.home-page-art-hover .rectangle-17 {
+  height: 309px;
+  left: 227px;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.home-page-art-hover .rectangle-18 {
+  height: 71px;
+  left: 144px;
+  position: absolute;
+  top: 174px;
+  width: 73px;
+}
+
+.home-page-art-hover .union-2 {
+  height: 123px;
+  left: 161px;
+  position: absolute;
+  top: 186px;
+  width: 362px;
+}
+
+.home-page-art-hover .rectangle-9 {
+  height: 30px;
+  left: 269px;
+  position: absolute;
+  top: 155px;
+  width: 80px;
+}
+
+.home-page-art-hover .rectangle-12 {
+  height: 31px;
+  left: 358px;
+  position: absolute;
+  top: 155px;
+  width: 87px;
+}
+
+.home-page-art-hover .rectangle-4 {
+  background-color: var(--licorice);
+  border-radius: 45px;
+  height: 89px;
+  left: 285px;
+  position: absolute;
+  top: 31px;
+  transform: rotate(171.12deg);
+  width: 32px;
+}
+
+.home-page-art-hover .rectangle-14 {
+  background-color: var(--licorice);
+  border-radius: 45px;
+  height: 89px;
+  left: 393px;
+  position: absolute;
+  top: 31px;
+  transform: rotate(-172.00deg);
+  width: 32px;
+}
+
+.home-page-art-hover .rectangle-1 {
+  background-color: var(--white);
+  height: 32px;
+  left: 310px;
+  position: absolute;
+  top: 59px;
+  transform: rotate(-9.14deg);
+  width: 3px;
+}
+
+.home-page-art-hover .rectangle-15 {
+  background-color: var(--white);
+  height: 32px;
+  left: 419px;
+  position: absolute;
+  top: 60px;
+  transform: rotate(9.58deg);
+  width: 3px;
+}
+
+.home-page-art-hover .rectangle-5 {
+  background-color: #8d8c8c;
+  height: 35px;
+  left: 351px;
+  position: absolute;
+  top: 123px;
+  transform: rotate(-89.92deg);
+  width: 5px;
+}
+
+.home-page-art-hover .rectangle-6 {
+  height: 40px;
+  left: 331px;
+  position: absolute;
+  top: 192px;
+  width: 46px;
+}
+
+.home-page-art-hover .ellipse-2 {
+  background-color: var(--white);
+  border-radius: 3.23px/6.82px;
+  height: 14px;
+  left: 420px;
+  position: absolute;
+  top: 41px;
+  transform: rotate(6.97deg);
+  width: 6px;
+}
+
+.home-page-art-hover .ellipse-1 {
+  background-color: var(--white);
+  border-radius: 3.26px/6.76px;
+  height: 14px;
+  left: 303px;
+  position: absolute;
+  top: 41px;
+  transform: rotate(-20.18deg);
+  width: 7px;
+}
+
+.home-page-art-hover .x12-1 {
+  height: 214px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 236px;
+}
+
+.home-page-art-hover .ellipse-8 {
+  height: 137px;
+  left: 1031px;
+  position: absolute;
+  top: 0;
+  width: 154px;
+}
+
+.home-page-art-hover .randal-reiner {
+  height: 33px;
+  left: 496px;
+  position: absolute;
+  top: 126px;
+  width: 219px;
+}
+
+.home-page-art-hover .work {
+  left: 1158px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 110px;
+  width: 102px;
+}
+
+.home-page-art-hover .about {
+  left: 1268px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 110px;
+  width: 113px;
+}
+
+.home-page-art-hover .place {
+  left: 1389px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 110px;
+  width: 145px;
+}
+
+.home-page-art-hover .art {
+  color: var(--robins-egg-blue);
+  font-family: var(--font-family-lemonada);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  left: 1542px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 109px;
+  width: 63px;
+}
+
+.home-page-art-hover .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--robins-egg-blue);
+  border-radius: 72px;
+  display: flex;
+  height: 64px;
+  justify-content: flex-end;
+  left: 1428px;
+  min-width: 148px;
+  padding: 15px 21px;
+  position: absolute;
+  top: 610px;
+}
+
+.home-page-art-hover .resume {
+  color: var(--black);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  letter-spacing: 0;
+  min-height: 31px;
+  width: 100px;
+}
+
+.home-page-art-hover .socials {
+  color: var(--white);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  left: 408px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 616px;
+  width: 83px;
+}
+
+.home-page-art-hover .vector {
+  height: 64px;
+  left: 295px;
+  position: absolute;
+  top: 661px;
+  width: 64px;
+}
+
+.home-page-art-hover .group {
+  height: 65px;
+  left: 408px;
+  position: absolute;
+  top: 656px;
+  width: 63px;
+}
+
+.home-page-art-hover .group-1 {
+  height: 40px;
+  left: 521px;
+  position: absolute;
+  top: 673px;
+  width: 50px;
+}
+
+.home-page-art-hover .i-am-a-junior-uxui {
+  color: transparent;
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 861px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 311px;
+  width: 614px;
+}
+
+.home-page-art-hover .more {
+  color: #0acbe0;
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  left: 940px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 461px;
+  width: 84px;
+}
+
+.home-page-art-hover .overlap-group6 {
+  height: 169px;
+  left: 372px;
+  position: absolute;
+  top: 82px;
+  width: 194px;
+}
+
+.home-page-art-hover .ellipse-28 {
+  height: 14px;
+  left: 33px;
+  position: absolute;
+  top: 53px;
+  width: 37px;
+}
+
+.home-page-art-hover .ellipse-29 {
+  height: 14px;
+  left: 35px;
+  position: absolute;
+  top: 53px;
+  width: 37px;
+}
+
+.home-page-art-hover .union-3 {
+  height: 87px;
+  left: 40px;
+  position: absolute;
+  top: 43px;
+  width: 27px;
+}
+
+.home-page-art-hover .union-4 {
+  height: 3px;
+  left: 46px;
+  position: absolute;
+  top: 45px;
+  width: 3px;
+}
+
+.home-page-art-hover .ellipse-30 {
+  height: 167px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 193px;
+}
+
+.home-page-art-hover .ellipse-31 {
+  height: 169px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 192px;
+}
+
+.home-page-art-hover .overlap-group7 {
+  align-self: center;
+  height: 990px;
+  margin-right: 18.0px;
+  position: relative;
+  width: 1330px;
+}
+
+.home-page-art-hover .case-studies {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 990px;
+  position: absolute;
+  top: 0;
+  width: 1330px;
+}
+
+.home-page-art-hover .designs {
+  color: var(--black);
+  font-family: var(--font-family-lemonada);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-left: 56.0px;
+  min-height: 72px;
+  width: 240px;
+}
+
+.home-page-art-hover .button-container {
+  height: 901px;
+  margin-right: 2.0px;
+  margin-top: 33px;
+  position: relative;
+  width: 1346px;
+}
+
+.home-page-art-hover .vai-bin-button {
+  height: 311px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1346px;
+}
+
+.home-page-art-hover .syte-button {
+  height: 296px;
+  left: 1px;
+  position: absolute;
+  top: 310px;
+  width: 1345px;
+}
+
+.home-page-art-hover .nws-button {
+  height: 296px;
+  left: 1px;
+  position: absolute;
+  top: 605px;
+  width: 1345px;
+}
+
+.home-page-art-hover .overlap-group5 {
+  background-image: url(../img/-----image@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 284px;
+  left: 70px;
+  position: absolute;
+  top: 114px;
+  width: 276px;
+}
+
+.home-page-art-hover .running-man-bag-9504127-1 {
+  height: 239px;
+  left: 22px;
+  position: absolute;
+  top: 18px;
+  width: 232px;
+}
+
+.home-page-art-hover .vai-bin {
+  height: 58px;
+  left: 11px;
+  position: absolute;
+  top: 154px;
+  width: 254px;
+}
+
+.home-page-art-hover .footer {
+  align-items: flex-start;
+  display: flex;
+  height: 554px;
+  margin-left: -184px;
+  margin-top: 50px;
+  min-width: 1845px;
+  padding: 0 6.1px;
+}
+
+.home-page-art-hover .overlap-group3 {
+  height: 547px;
+  margin-top: -0.47px;
+  position: relative;
+  width: 1829px;
+}
+
+.home-page-art-hover .rectangle-35 {
+  background-color: var(--black);
+  height: 409px;
+  left: 177px;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.home-page-art-hover .group-2 {
+  height: 65px;
+  left: 801px;
+  position: absolute;
+  top: 290px;
+  width: 63px;
+}
+
+.home-page-art-hover .ellipse-11-1 {
+  height: 90px;
+  left: 1037px;
+  position: absolute;
+  top: 368px;
+  width: 98px;
+}
+
+.home-page-art-hover .ellipse-14 {
+  height: 90px;
+  left: 1056px;
+  position: absolute;
+  top: 3px;
+  width: 98px;
+}
+
+.home-page-art-hover .union-5 {
+  height: 423px;
+  left: 335px;
+  position: absolute;
+  top: 3px;
+  width: 607px;
+}
+
+.home-page-art-hover .resume-1 {
+  left: 337px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 113px;
+  width: 148px;
+}
+
+.home-page-art-hover .place-1 {
+  left: 670px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 113px;
+  width: 142px;
+}
+
+.home-page-art-hover .about-1 {
+  left: 1027px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 117px;
+  width: 108px;
+}
+
+.home-page-art-hover .art-1 {
+  left: 1481px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 113px;
+  width: 70px;
+}
+
+.home-page-art-hover .ellipse-12 {
+  height: 58px;
+  left: 495px;
+  position: absolute;
+  top: 127px;
+  width: 62px;
+}
+
+.home-page-art-hover .ellipse-15 {
+  height: 58px;
+  left: 1043px;
+  position: absolute;
+  top: 49px;
+  width: 62px;
+}
+
+.home-page-art-hover .group-3 {
+  height: 40px;
+  left: 1037px;
+  position: absolute;
+  top: 300px;
+  width: 50px;
+}
+
+.home-page-art-hover .ellipse-8-1 {
+  height: 137px;
+  left: 125px;
+  position: absolute;
+  top: 0;
+  width: 154px;
+}
+
+.home-page-art-hover .ellipse-10-1 {
+  height: 132px;
+  left: 1444px;
+  position: absolute;
+  top: 24px;
+  width: 154px;
+}
+
+.home-page-art-hover .union-6 {
+  height: 423px;
+  left: 1172px;
+  position: absolute;
+  top: 0;
+  width: 657px;
+}
+
+.home-page-art-hover .vector-1 {
+  height: 64px;
+  left: 922px;
+  position: absolute;
+  top: 290px;
+  width: 64px;
+}
+
+.home-page-art-hover .socials-1 {
+  left: 904px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 228px;
+  width: 128px;
+}
+
+.home-page-art-hover .ellipse-15-1 {
+  height: 239px;
+  left: 0;
+  position: absolute;
+  top: 308px;
+  width: 250px;
+}
