@@ -650,16 +650,22 @@
 
 .home-page .rectangle-35 {
   background-color: var(--black);
-  display: grid; 
-  grid-row-start: 4;
-  grid-row-end: 3;
+  display: grid;
+  grid-template-columns: 100%;
+  grid-row-gap: 1em;
+  height: 409px;
+  position: flex;
+  top: 420;
+  flex-direction: row;
+  align-items: baseline;
+  width: flex;
 }
 
 .home-page .group-2 {
   height: 65px;
   left: 801px;
   position: absolute;
-  top: 290px;
+  top: 420px;
   width: 63px;
 }
 
@@ -667,7 +673,7 @@
   height: 90px;
   left: 1037px;
   position: absolute;
-  top: 368px;
+  top: 420px;
   width: 98px;
 }
 
@@ -683,7 +689,7 @@
   height: 423px;
   left: 335px;
   position: absolute;
-  top: 3px;
+  top: 420px;
   width: 607px;
 }
 
