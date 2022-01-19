@@ -654,11 +654,8 @@
   grid-template-columns: 100%;
   grid-row-gap: 1em;
   height: 409px;
-  position: flex;
-  top: 420;
   flex-direction: row;
   align-items: baseline;
-  width: flex;
 }
 
 .home-page .group-2 {
@@ -689,7 +686,7 @@
   height: 423px;
   left: 335px;
   position: absolute;
-  top: 420px;
+  top: px;
   width: 607px;
 }
 
